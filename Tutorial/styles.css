@@ -1,0 +1,10 @@
+/*Lenguaje de hojas de estilo en cascada o stylesheets*/
+body{
+    background-color: white;
+}
+
+.container{
+    padding:0;
+    margin:0;
+    border: 5px solid black;
+}
